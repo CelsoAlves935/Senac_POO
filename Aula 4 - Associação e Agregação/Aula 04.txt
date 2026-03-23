@@ -1,0 +1,37 @@
+Aula 04 
+
+	Produto
+		Nome
+		Quantidade
+		precoUnitario
+		codigoDeBarras
+
+
+
+	toString()
+	getPreco()
+	fazCompra()
+
+
+
+
+
+	Caixa
+		produto
+			fazCompra
+
+
+	Produto
+		-nome
+		-quantidade
+		-precoUnitario
+		-codigoDeBarras
+			getPreco()
+			fazCompra()
+
+
+	ProdutoPerecivel
+			-Validade
+			-Dia
+				estaValido()
+
