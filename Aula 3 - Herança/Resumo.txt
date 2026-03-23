@@ -1,0 +1,49 @@
+Classes: 
+
+-> Professor
+	-Nome
+	-Idade
+	-Carga Horária
+	-Salário
+
+
+->Aluno
+	-Nome
+	-Idade
+	-Curso
+	-Nota
+
+-> Pessoa
+	-nome
+	-idade
+
+
+
+-> Métodos
+	Professor:
+	+fazAniversario
+	+obterSalario
+
+	Aluno:
+	+fazAniversario
+	+aprovação
+
+	Pessoa:
+	+fazAniversario
+
+
+
+
+Hierarquia
+
+Pessoa(Pai) -> Professor e Aluno
+
+
+Pesquisar:
+Herança
+Super classe
+
+
+
+
+	
